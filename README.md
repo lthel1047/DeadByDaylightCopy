@@ -1,8 +1,9 @@
 # DeadByDaylightCopy
 
 '''
-  cs
-  public void FillBox()
+	cs
+	
+  	public void FillBox()
 	{
 		centertext.gameObject.SetActive(true);
 		text.color += new Color(0, 0, 0, 155);
